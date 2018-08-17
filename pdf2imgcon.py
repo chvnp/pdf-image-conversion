@@ -2,7 +2,7 @@
 #The purpose of this project is to convert the list of pdfs to images 
 
 #importing the required libraries
-
+#added checking line
 import os, sys, importlib, shutil
 import time
 import pandas as pd
