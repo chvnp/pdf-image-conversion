@@ -6,7 +6,6 @@
 import os, sys, importlib, shutil
 import time
 import pandas as pd
-import os
 import PyPDF2
 from PyPDF2 import PdfFileReader
 from wand import image 
